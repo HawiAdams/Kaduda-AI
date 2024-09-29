@@ -4,7 +4,7 @@ Welcome to your new `Kaduda-AI` project and to the Internet Computer development
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
-To learn more before you start working with `offline_ai`, see the following documentation available online:
+To learn more before you start working with `Kaduda-AI`, see the following documentation available online:
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
 - [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/setup/install)
@@ -14,14 +14,14 @@ To learn more before you start working with `offline_ai`, see the following docu
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
-cd offline_ai/
+cd Kaduda-AI/
 dfx help
 dfx canister --help
 ```
 
 ## Running the project locally
 
-To run and test your `offline_ai` project locally on the Internet Computer, you can use the following steps:
+To run and test your `Kaduda-AI` project locally on the Internet Computer, you can use the following steps:
 
 ### **Step 1: Start the ICP Local Replica**
 Start the Internet Computer (ICP) replica locally to simulate the mainnet environment:
