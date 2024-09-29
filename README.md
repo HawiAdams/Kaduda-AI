@@ -1,6 +1,8 @@
 # `Kaduda-AI`
+![image](https://github.com/user-attachments/assets/017cc2c7-ab5e-439a-9a9e-3f0416e5c1c5)
 
 Welcome to your new `Kaduda-AI` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+![image](https://github.com/user-attachments/assets/3bf3f9a4-42ce-4e80-b847-cc82f64e6192)
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
